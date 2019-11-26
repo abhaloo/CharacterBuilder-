@@ -1,0 +1,9 @@
+References:
+
+CSS Template
+AR3jqaOkMWRxA8lD4enlIVYbS797b3c-_mq9tBCwao2DENrcxXlkUU2jpuo Retrieved April 1, 2019, from https://templated.co/industrious (n.d.). 
+
+Retrieved April 2, 2019, from https://www.onlineittuts.com/login-page-in-php.html
+
+Elmasri,	R.A.,	&Navathe,	S.B.	(2017)	Fundamentals	of database	Systems.	Boston: Pearson
+
