@@ -1,6 +1,6 @@
 Project for CPSC 471 (Database Managment Systems)
 
-A website to help players explore different combinations of equipment they can equip to a character to set their in game attributes such as speed, strength, intelligence etc...   
+A website to help players explore different combinations of equipment for a character and see their subeqeuent effect on the characters attributes (speed, strength, intelligence etc...) so as to maximize the value of their in game currency when buying such equipment.    
 
 LAUNCH: 
 
